@@ -1,0 +1,1 @@
+sequelize-auto -o "./models" -d CRM -h localhost -u postgres -p 5432 -x password -e postgres -l ts
